@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "RPCSecureshield",
+  title: "RPCSecureShield.com - Crypto Wallet Support",
   description: "Crypto Wallet Support Got You Covered",
 };
 
